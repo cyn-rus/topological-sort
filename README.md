@@ -24,7 +24,9 @@ cd ../topological-sort/src
 3. Ketik python main.py atau python3 main.py
 ```sh
 python main.py
+```
 atau
+```sh
 python3 main.py
 ```
 4. Masukkan nama file yang sudah terisi dengan persoalan *topological sort* dan pastikan file tersebut berada di dalam ./topological-sort/test, atau dengan file-file yang sudah tersedia. Format *file* teks untuk masukan adalah:

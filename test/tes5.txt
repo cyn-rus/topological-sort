@@ -1,0 +1,33 @@
+Bahasa Inggris.
+Matematika I.
+Pendidikan Kewarganegaraan.
+Pengantar Akuntansi I.
+Pengantar Bisnis.
+Pengantar Ekonomi Mikro.
+Praktikum Aplikasi Komputer.
+Sertifikasi I.
+Studi Islam 1.
+Bahasa Inggris Ekonomi.
+Matematika II, Matematika I.
+Pengantar Akuntansi II, Pengantar Akuntansi I.
+Pengantar Ekonomi Makro
+Pengantar Manajemen.
+Statistika I, Matematika I.
+Teori Ekonomi Mikro, Pengantar Ekonomi Mikro.
+Ekonomi Moneter, Pengantar Ekonomi Makro.
+Ekonomi Pembangunan, Pengantar Ekonomi Makro.
+Ekonomi Sumber Daya Alam dan Lingkungan, Pengantar Ekonomi Makro, Teori Ekonomi Makro.
+Ilmu Kealaman Dasar.
+Sertifikasi Bahasa Inggris I.
+Sertifikasi II.
+Statistika II, Matematika II, Statistika I.
+Studi Islam 2.
+Teori Ekonomi Makro, Pengantar Ekonomi Makro.
+Akuntansi Sektor Publik, Pengantar Akuntansi II.
+Ekonometrika I, Matematika II, Statistika II.
+Ekonomi Internasional, Teori Ekonomi Mikro.
+Ekonomi Internasional, Teori Ekonomi Makro.
+Ekonomi Publik, Ekonomi Pembangunan.
+Ekonomi Publik, Teori Ekonomi Makro.
+Ekonomi Sumber Daya Manusia, Teori Ekonomi Mikro.
+Ekonomi Sumber Daya Manusia, Teori Ekonomi Makro.

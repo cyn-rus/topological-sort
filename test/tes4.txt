@@ -1,0 +1,28 @@
+Fisika Dasar.
+Statistika Elementer.
+Kalkulus 1.
+Bahasa Inggris.
+Logika.
+Pemecahan Masalah Mat.
+Pemrograman Komputer.
+Aljabar Matriks.
+Kalkulus 2, Kalkulus 1.
+Estetika.
+Agama Katolik/Fenomonologi Agama.
+Matematika Diskrit, Pemecahan Masalah Mat.
+Komputasi Statistika, Pemrograman Komputer, Statistika Elementer.
+Etika.
+Kalkulus Vektor, Kalkulus 2.
+Teori Peluang, Kalkulus 2.
+Teori Suku Bunga, Kalkulus 2.
+Metoda Matematika, Kalkulus 2.
+Aljabar Linear, Aljabar Matriks.
+Komputasi Matematika, Statistika Elementer, Kalkulus Vektor, Aljabar Matriks.
+Optimasi, Aljabar Matriks, Kalkulus Vektor.
+Persamaan Differensial Biasa, Aljabar Matriks, Kalkulus 2.
+Statistika Matematika, Teori Peluang.
+Metoda Numerik, Komputasi Matematika.
+Fungsi Kompleks, Kalkulus Vektor.
+Proses Stokastik, Teori Peluang.
+Analisis Real, Fungsi Kompleks.
+Pemodelan Matematika, Komputasi Statistika, Komputasi Matematika, Aljabar Matriks, Kalkulus Vektor, Persamaan Differensial Biasa.

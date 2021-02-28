@@ -1,0 +1,18 @@
+a.
+b.
+c.
+aa, a.
+ab, a.
+ac, a.
+ba, b.
+bb, b.
+bc, b.
+ca, c.
+cb, c.
+cc, c.
+cd, c.
+aaa, aa.
+aba, ab.
+abc, ab.
+cda, cd.
+abcd, a, ab, abc.

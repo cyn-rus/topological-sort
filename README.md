@@ -19,7 +19,7 @@ git clone https://github.com/cyn-rus/topological-sort
 ```
 2. Masuk ke dalam *directory* di mana program utama berada di dalam terminal
 ```sh
-cd ../cryptarithmetic/src
+cd ../topological-sort/src
 ```
 3. Ketik python main.py atau python3 main.py
 ```sh
